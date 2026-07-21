@@ -1,0 +1,82 @@
+# Abhay Tours and Travels Directory
+
+Welcome to the LLM agent and crawler information index for Abhay Tours and Travels. This document contains structured overview files, paths, and metadata about our service directory.
+
+Website URL: https://www.abhaytravels.co.in
+Industry: Travel Agency
+Location: Bengaluru, Karnataka, India
+Contact: Phone: +919019974147 | Email: info@abhaytravels.co.in
+Hours: 24/7
+
+## Core Service Catalog
+- [Airport Taxi Service](https://www.abhaytravels.co.in/services/airport-taxi-service/): Reliable airport taxi service for Kempegowda International Airport (KIAL) pickups and drops. Guaranteed on-time arrival, flight tracking and 24/7 support.
+- [Local Taxi Service](https://www.abhaytravels.co.in/services/local-taxi-service/): Book hourly cab service in Bangalore for shopping, meetings, hospital visits and city travel. Packages from 4 hours to full-day hire with verified drivers.
+- [Outstation Taxi Service](https://www.abhaytravels.co.in/services/outstation-taxi-service/): Comfortable outstation cab service from Bangalore to Mysore, Coorg, Ooty, Chikmagalur and beyond. One-way and round-trip with driver bata included.
+- [Corporate Travel Service](https://www.abhaytravels.co.in/services/corporate-travel-service/): End-to-end corporate transportation for tech parks, client visits and employee commuting. Fleet of sedans, SUVs, Tempo Travellers and buses with monthly packages.
+- [Hotel Booking Service](https://www.abhaytravels.co.in/services/hotel-booking-service/): Book budget to luxury hotels across Karnataka and India with our travel desk assistance. Best-rate guarantee with curated property recommendations.
+- [Tour Package Booking](https://www.abhaytravels.co.in/services/tour-package-booking/): Customized holiday packages for families, groups and corporate travelers. Coorg, Ooty, Mysore, Chikmagalur, Kerala and Goa packages with transport, hotel and sightseeing.
+
+## Vehicle Fleet Specification
+- [Toyota Etios](https://www.abhaytravels.co.in/vehicles/toyota-etios/): Toyota Etios (4 seats, AC). Outstation: 13/km.
+- [Maruti Dzire](https://www.abhaytravels.co.in/vehicles/maruti-dzire/): Maruti Dzire (4 seats, AC). Outstation: 13/km.
+- [Honda Amaze](https://www.abhaytravels.co.in/vehicles/honda-amaze/): Honda Amaze (4 seats, AC). Outstation: 13/km.
+- [Toyota Rumion](https://www.abhaytravels.co.in/vehicles/toyota-rumion/): Toyota Rumion (6 seats, AC). Outstation: 15/km.
+- [Maruti Ertiga](https://www.abhaytravels.co.in/vehicles/maruti-ertiga/): Maruti Ertiga (7 seats, AC). Outstation: 15/km.
+- [Toyota Innova Crysta](https://www.abhaytravels.co.in/vehicles/toyota-innova-crysta/): Toyota Innova Crysta (7 seats, AC). Outstation: 18/km.
+- [Tempo Traveller 12 Seater](https://www.abhaytravels.co.in/vehicles/tempo-traveller-12-seater/): Force Tempo Traveller 12 (12 seats, AC). Outstation: 24/km.
+- [Tempo Traveller 17 Seater](https://www.abhaytravels.co.in/vehicles/tempo-traveller-17-seater/): Force Tempo Traveller 17 (17 seats, AC). Outstation: 26/km.
+- [Tempo Traveller 20 Seater](https://www.abhaytravels.co.in/vehicles/tempo-traveller-20-seater/): Force Tempo Traveller 20 (20 seats, AC). Outstation: 28/km.
+- [Mini Bus 21 Seater](https://www.abhaytravels.co.in/vehicles/mini-bus-21-seater/): Force Mini Bus 21 (21 seats, AC). Outstation: 30/km.
+- [Bus 35 Seater](https://www.abhaytravels.co.in/vehicles/bus-35-seater/): Ashok Leyland 35 Seater Bus (35 seats, AC). Outstation: 38/km.
+- [Bus 50 Seater](https://www.abhaytravels.co.in/vehicles/bus-50-seater/): Ashok Leyland 50 Seater Bus (50 seats, AC). Outstation: 45/km.
+
+## Popular Outstation Routes
+- [Bangalore to Mysore Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-mysore/): 145km, approx. 3.5 hrs. Fares from ₹1740.
+- [Bangalore to Coorg Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-coorg/): 265km, approx. 6 hrs. Fares from ₹3180.
+- [Bangalore to Chikmagalur Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-chikmagalur/): 245km, approx. 5.5 hrs. Fares from ₹2940.
+- [Bangalore to Ooty Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-ooty/): 270km, approx. 6.5 hrs. Fares from ₹3240.
+- [Bangalore to Kodaikanal Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-kodaikanal/): 460km, approx. 9 hrs. Fares from ₹5520.
+- [Bangalore to Wayanad Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-wayanad/): 280km, approx. 6 hrs. Fares from ₹3360.
+- [Bangalore to Hampi Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-hampi/): 340km, approx. 7 hrs. Fares from ₹4080.
+- [Bangalore to Sakleshpur Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-sakleshpur/): 220km, approx. 5 hrs. Fares from ₹2640.
+- [Bangalore to Yercaud Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-yercaud/): 230km, approx. 5 hrs. Fares from ₹2760.
+- [Bangalore to Coonoor Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-coonoor/): 300km, approx. 7 hrs. Fares from ₹3600.
+- [Bangalore to Tirupati Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-tirupati/): 250km, approx. 5.5 hrs. Fares from ₹3000.
+- [Bangalore to Srikalahasti Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-srikalahasti/): 280km, approx. 6 hrs. Fares from ₹3360.
+- [Bangalore to Kanipakam Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-kanipakam/): 220km, approx. 5 hrs. Fares from ₹2640.
+- [Bangalore to Dharmasthala Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-dharmasthala/): 300km, approx. 7 hrs. Fares from ₹3600.
+- [Bangalore to Kukke Subramanya Taxi](https://www.abhaytravels.co.in/routes/bangalore-to-kukke-subramanya/): 280km, approx. 6.5 hrs. Fares from ₹3360.
+
+## Neighborhood Locations Covered
+- [Kempegowda Airport](https://www.abhaytravels.co.in/locations/kempegowda-airport/): Local cabs and airport bookings in Kempegowda Airport.
+- [Whitefield](https://www.abhaytravels.co.in/locations/whitefield/): Local cabs and airport bookings in Whitefield.
+- [Marathahalli](https://www.abhaytravels.co.in/locations/marathahalli/): Local cabs and airport bookings in Marathahalli.
+- [Brookefield](https://www.abhaytravels.co.in/locations/brookefield/): Local cabs and airport bookings in Brookefield.
+- [Varthur](https://www.abhaytravels.co.in/locations/varthur/): Local cabs and airport bookings in Varthur.
+- [Bellandur](https://www.abhaytravels.co.in/locations/bellandur/): Local cabs and airport bookings in Bellandur.
+- [Sarjapur Road](https://www.abhaytravels.co.in/locations/sarjapur-road/): Local cabs and airport bookings in Sarjapur Road.
+- [Electronic City](https://www.abhaytravels.co.in/locations/electronic-city/): Local cabs and airport bookings in Electronic City.
+- [Hsr Layout](https://www.abhaytravels.co.in/locations/hsr-layout/): Local cabs and airport bookings in Hsr Layout.
+- [Koramangala](https://www.abhaytravels.co.in/locations/koramangala/): Local cabs and airport bookings in Koramangala.
+- [Indiranagar](https://www.abhaytravels.co.in/locations/indiranagar/): Local cabs and airport bookings in Indiranagar.
+- [Mg Road](https://www.abhaytravels.co.in/locations/mg-road/): Local cabs and airport bookings in Mg Road.
+- [Brigade Road](https://www.abhaytravels.co.in/locations/brigade-road/): Local cabs and airport bookings in Brigade Road.
+- [Richmond Road](https://www.abhaytravels.co.in/locations/richmond-road/): Local cabs and airport bookings in Richmond Road.
+- [Residency Road](https://www.abhaytravels.co.in/locations/residency-road/): Local cabs and airport bookings in Residency Road.
+
+## Travel Blog & Guides
+- [Complete Guide to Bangalore Airport Taxi Services](https://www.abhaytravels.co.in/blog/bangalore-airport-taxi-guide/): Learn how to book reliable airport taxi services in Bengaluru, pricing information, pickup tips and travel recommendations.
+- [Best Time to Book an Airport Taxi in Bengaluru](https://www.abhaytravels.co.in/blog/best-time-to-book-airport-taxi/): Discover the ideal time to book airport cabs and avoid last-minute surge pricing.
+- [Top Weekend Destinations from Bangalore](https://www.abhaytravels.co.in/blog/top-weekend-destinations-from-bangalore/): Explore Coorg, Ooty, Chikmagalur, Mysore and other popular weekend getaway destinations.
+- [Best Vehicles for Family Trips from Bengaluru](https://www.abhaytravels.co.in/blog/best-family-trip-vehicles/): Compare sedan, SUV, MUV and tempo traveller options for comfortable family travel.
+- [Corporate Cab Services for Bengaluru Companies](https://www.abhaytravels.co.in/blog/corporate-cab-services-guide/): Everything businesses need to know about corporate transportation and employee travel solutions.
+- [Why Corporate Cab Services Save Business Costs](https://www.abhaytravels.co.in/blog/why-corporate-cabs-save-money/): Learn how organized transportation helps companies reduce travel costs and improve employee productivity.
+- [Hotel Booking Tips Every Traveler Should Know](https://www.abhaytravels.co.in/blog/hotel-booking-tips-for-travelers/): Helpful hotel booking tips for business travelers, families and vacation planners.
+- [Resort vs Hotel: Which is Better for Your Trip](https://www.abhaytravels.co.in/blog/resort-vs-hotel-which-is-better/): Understand the differences between resorts and hotels before planning your next holiday.
+- [Bangalore to Mysore Road Trip Guide](https://www.abhaytravels.co.in/blog/bangalore-to-mysore-road-trip-guide/): Distance, routes, attractions and travel tips for a memorable Bengaluru to Mysore road trip.
+- [Why Tempo Traveller is Best for Group Travel](https://www.abhaytravels.co.in/blog/why-tempo-traveller-is-best-for-groups/): Learn why tempo travellers are the preferred choice for family trips, corporate outings and group tours.
+
+## Media Library & Videos
+- [Bengaluru Airport Taxi Pickup Experience & Guide](https://www.abhaytravels.co.in/media/bengaluru-airport-taxi-pickup-guide/): Watch our step-by-step video guide on how to locate your taxi at Bengaluru Airport (KIA) and get a hassle-free pickup.
+- [One Way Cab Guide: Bengaluru to Mysore](https://www.abhaytravels.co.in/media/mysore-one-way-taxi-guide/): A comprehensive video walkthrough of our outstation one-way taxi service from Bengaluru to Mysore, including route details.
+- [Luxury Tempo Traveller Tour](https://www.abhaytravels.co.in/media/premium-traveller-video-tour/): Take a virtual tour inside our premium 12-seater luxury Tempo Traveller, perfect for family getaways and corporate trips.
